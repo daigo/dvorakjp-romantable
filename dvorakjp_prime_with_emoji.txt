@@ -4288,3 +4288,8 @@ whx	うぃん
 :zombie	🧟
 :zw	🇿🇼
 :zzz	💤
+must	![badge](https://img.shields.io/badge/review-must-red.svg)
+imo	![badge](https://img.shields.io/badge/review-imo-orange.svg)
+ask	![badge](https://img.shields.io/badge/review-ask-blue.svg)
+nits	![badge](https://img.shields.io/badge/review-nits-green.svg)
+suggestion	![badge](https://img.shields.io/badge/review-suggestion-blue.svg)
